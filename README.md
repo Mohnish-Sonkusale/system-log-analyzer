@@ -1,9 +1,20 @@
-🖥️ Binary System Log Classifier
-Welcome to the Binary System Log Classifier project! This tool uses machine learning to classify system log messages as either Issue or Non-Issue — helping IT teams quickly spot critical problems.
+# 🖥️ Binary System Log Classifier
 
-🚀 Quick Start Guide
-Follow these steps to get your environment ready and start making predictions!
+This project uses machine learning to classify system log messages as **Issue** or **Non-Issue** — helping IT teams quickly identify critical problems.
 
+---
+
+## 🚀 Quick Start Guide
+
+Follow these steps to set up the environment, train the model (optional), and run the interactive Streamlit app for predictions.
+
+---
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/log-issue-classifier.git
+cd log-issue-classifier
 🗂️ Project Structure Overview Binary/
 
 ├── app.py # Streamlit app for interactive prediction
@@ -24,7 +35,8 @@ Follow these steps to get your environment ready and start making predictions!
 
 └── README.md # This file
 
-1️⃣ Clone the Repository
+
+### 1️⃣ Clone the Repository
 Open your terminal or PowerShell and run:
 
 git clone https://github.com/yourusername/log-issue-classifier.git cd log-issue-classifier
