@@ -39,12 +39,18 @@ cd log-issue-classifier
 ### 1️⃣ Clone the Repository
 Open your terminal or PowerShell and run:
 
-git clone https://github.com/yourusername/log-issue-classifier.git cd log-issue-classifier
+git clone https://github.com/yourusername/log-issue-classifier.git
+
+cd log-issue-classifier
 
 2️⃣ It’s best practice to use a virtual environment to keep dependencies isolated.
-Windows: python -m venv venv .\venv\Scripts\activate
+Windows:
 
-macOS/Linux: python3 -m venv venv source venv/bin/activate
+python -m venv venv .\venv\Scripts\activate
+
+macOS/Linux:
+
+python3 -m venv venv source venv/bin/activate
 
 3️⃣ Install Required Packages
 Install all necessary Python packages by running:
