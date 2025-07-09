@@ -43,19 +43,29 @@ git clone https://github.com/yourusername/log-issue-classifier.git
 
 cd log-issue-classifier
 
+---
+
 2️⃣ It’s best practice to use a virtual environment to keep dependencies isolated.
 Windows:
 
-python -m venv venv .\venv\Scripts\activate
+--- python -m venv venv
+
+.\venv\Scripts\activate
 
 macOS/Linux:
 
-python3 -m venv venv source venv/bin/activate
+--- python3 -m venvvenv
+
+source venv/bin/activate
+
+---
 
 3️⃣ Install Required Packages
 Install all necessary Python packages by running:
 
-pip install -r requirements.txt
+---pip install -r requirements.txt
+
+---
 
 4️⃣ Train the Model (Optional)
 If you want to train the model yourself or retrain with new data:
@@ -69,12 +79,16 @@ Evaluate model performance
 
 Save the trained model and vectorizer
 
+---
+
 5️⃣ Run the Streamlit App for Interactive Prediction
 Start the Streamlit app to classify new log lines interactively:
 
 --- streamlit run app.py
 
 A browser window will open. Enter a system log line in the text box. Click Predict to see if it’s an Issue or Non-Issue along with confidence scores.
+
+---
 
 6️⃣ Understanding the Output
 Prediction:
