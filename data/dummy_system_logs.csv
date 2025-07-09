@@ -1,0 +1,501 @@
+log_line,label
+WARNING: CPU temperature high,1
+Drive mounted at /mnt/data,0
+"Power failure detected, system shutting down",1
+CRITICAL ERROR: Kernel panic occurred,1
+WiFi connection stable,0
+WARNING: Disk usage exceeds 90%,1
+ALERT: System resource usage critical,1
+CPU temperature within normal range,0
+Network connection established,0
+Device operating as expected,0
+All services running normally,0
+System update completed,0
+WiFi connection stable,0
+"Disk check complete, no errors found",0
+ALERT: Battery health is degraded,1
+System boot completed successfully,0
+WARNING: Disk usage exceeds 90%,1
+"WARNING: Low battery, 5% remaining",1
+ERROR: Unexpected shutdown occurred,1
+Scheduled backup completed,0
+User logged in at 10:01 AM,0
+System failed to boot - error code 0x80004005,1
+ERROR: Battery temperature exceeds threshold,1
+Network connection established,0
+Scheduled backup completed,0
+CRITICAL: Memory leak detected,1
+WiFi connection stable,0
+"WARNING: Low battery, 5% remaining",1
+ERROR: Failed to mount root partition,1
+ERROR: Failed to mount root partition,1
+WARNING: Disk usage exceeds 90%,1
+WARNING: Fan speed below threshold,1
+Background scan completed,0
+Drive mounted at /mnt/data,0
+WiFi connection stable,0
+"WARNING: Low battery, 5% remaining",1
+Network connection established,0
+WARNING: Fan speed below threshold,1
+Scheduled backup completed,0
+Service started successfully,0
+"Power failure detected, system shutting down",1
+All services running normally,0
+User logged in at 10:01 AM,0
+"WARNING: Low battery, 5% remaining",1
+User logged in at 10:01 AM,0
+Background scan completed,0
+WARNING: Disk usage exceeds 90%,1
+Background scan completed,0
+ERROR: Failed to mount root partition,1
+CRITICAL: Memory leak detected,1
+ERROR: Unable to read from disk,1
+"Battery drain detected, shutdown imminent",1
+"Battery drain detected, shutdown imminent",1
+ERROR: Failed to mount root partition,1
+CRITICAL ERROR: Kernel panic occurred,1
+WiFi connection stable,0
+No system alerts detected,0
+No system alerts detected,0
+ERROR: Unable to read from disk,1
+Background scan completed,0
+System boot completed successfully,0
+ALERT: System resource usage critical,1
+ERROR: Unexpected shutdown occurred,1
+System boot completed successfully,0
+"WARNING: Low battery, 5% remaining",1
+ERROR: Unexpected shutdown occurred,1
+CPU temperature within normal range,0
+"WARNING: Low battery, 5% remaining",1
+ERROR: Battery temperature exceeds threshold,1
+"Battery level is 85%, charging",0
+WARNING: Disk usage exceeds 90%,1
+ALERT: Battery health is degraded,1
+CRITICAL ERROR: Kernel panic occurred,1
+Drive mounted at /mnt/data,0
+CRITICAL: Memory leak detected,1
+No system alerts detected,0
+"WARNING: Low battery, 5% remaining",1
+Scheduled backup completed,0
+Background scan completed,0
+No system alerts detected,0
+ERROR: Unable to read from disk,1
+User logged in at 10:01 AM,0
+ERROR: Battery temperature exceeds threshold,1
+All services running normally,0
+Service started successfully,0
+ALERT: Battery health is degraded,1
+"Power failure detected, system shutting down",1
+ERROR: Battery temperature exceeds threshold,1
+WARNING: Fan speed below threshold,1
+All services running normally,0
+CRITICAL ERROR: Kernel panic occurred,1
+Device operating as expected,0
+User logged in at 10:01 AM,0
+ERROR: Unexpected shutdown occurred,1
+WARNING: Fan speed below threshold,1
+CRITICAL ERROR: Kernel panic occurred,1
+"Battery drain detected, shutdown imminent",1
+WARNING: CPU temperature high,1
+WARNING: Disk usage exceeds 90%,1
+ALERT: System resource usage critical,1
+Background scan completed,0
+"WARNING: Low battery, 5% remaining",1
+Device operating as expected,0
+ALERT: Battery health is degraded,1
+System update completed,0
+"WARNING: Low battery, 5% remaining",1
+CPU temperature within normal range,0
+WARNING: CPU temperature high,1
+CRITICAL ERROR: Kernel panic occurred,1
+Drive mounted at /mnt/data,0
+"Battery drain detected, shutdown imminent",1
+System update completed,0
+ALERT: Battery health is degraded,1
+"Disk check complete, no errors found",0
+WiFi connection stable,0
+ERROR: Unable to read from disk,1
+System failed to boot - error code 0x80004005,1
+ERROR: Unexpected shutdown occurred,1
+WiFi connection stable,0
+WiFi connection stable,0
+"WARNING: Low battery, 5% remaining",1
+"Disk check complete, no errors found",0
+ALERT: System resource usage critical,1
+All services running normally,0
+WARNING: Fan speed below threshold,1
+ALERT: Battery health is degraded,1
+System update completed,0
+Device operating as expected,0
+WARNING: Disk usage exceeds 90%,1
+ALERT: Battery health is degraded,1
+Service started successfully,0
+Scheduled backup completed,0
+"Battery drain detected, shutdown imminent",1
+User logged in at 10:01 AM,0
+CRITICAL: Memory leak detected,1
+"WARNING: Low battery, 5% remaining",1
+Scheduled backup completed,0
+WARNING: CPU temperature high,1
+Service started successfully,0
+"Disk check complete, no errors found",0
+CRITICAL ERROR: Kernel panic occurred,1
+Device operating as expected,0
+"Disk check complete, no errors found",0
+Background scan completed,0
+Scheduled backup completed,0
+ALERT: Battery health is degraded,1
+System boot completed successfully,0
+System update completed,0
+System failed to boot - error code 0x80004005,1
+WARNING: Disk usage exceeds 90%,1
+Background scan completed,0
+No system alerts detected,0
+Network connection established,0
+System boot completed successfully,0
+ERROR: Unexpected shutdown occurred,1
+"Battery level is 85%, charging",0
+Scheduled backup completed,0
+"Battery level is 85%, charging",0
+ALERT: System resource usage critical,1
+Drive mounted at /mnt/data,0
+WARNING: Fan speed below threshold,1
+WiFi connection stable,0
+Service started successfully,0
+System boot completed successfully,0
+"WARNING: Low battery, 5% remaining",1
+WiFi connection stable,0
+No system alerts detected,0
+WARNING: Disk usage exceeds 90%,1
+No system alerts detected,0
+Network connection established,0
+No system alerts detected,0
+WARNING: CPU temperature high,1
+"Disk check complete, no errors found",0
+"Disk check complete, no errors found",0
+"Power failure detected, system shutting down",1
+"Battery level is 85%, charging",0
+CRITICAL ERROR: Kernel panic occurred,1
+System failed to boot - error code 0x80004005,1
+All services running normally,0
+"Disk check complete, no errors found",0
+All services running normally,0
+Scheduled backup completed,0
+WARNING: Disk usage exceeds 90%,1
+Scheduled backup completed,0
+"WARNING: Low battery, 5% remaining",1
+User logged in at 10:01 AM,0
+"Power failure detected, system shutting down",1
+WARNING: Fan speed below threshold,1
+"Disk check complete, no errors found",0
+System failed to boot - error code 0x80004005,1
+WiFi connection stable,0
+ERROR: Unable to read from disk,1
+WARNING: Fan speed below threshold,1
+WARNING: Disk usage exceeds 90%,1
+WiFi connection stable,0
+WARNING: CPU temperature high,1
+ALERT: Battery health is degraded,1
+CRITICAL ERROR: Kernel panic occurred,1
+"Battery drain detected, shutdown imminent",1
+"Battery drain detected, shutdown imminent",1
+"WARNING: Low battery, 5% remaining",1
+Scheduled backup completed,0
+ALERT: Battery health is degraded,1
+"Disk check complete, no errors found",0
+No system alerts detected,0
+System boot completed successfully,0
+System update completed,0
+No system alerts detected,0
+CRITICAL ERROR: Kernel panic occurred,1
+"Power failure detected, system shutting down",1
+Background scan completed,0
+ERROR: Failed to mount root partition,1
+Background scan completed,0
+"Battery drain detected, shutdown imminent",1
+System update completed,0
+ERROR: Failed to mount root partition,1
+WARNING: CPU temperature high,1
+WiFi connection stable,0
+Drive mounted at /mnt/data,0
+ERROR: Failed to mount root partition,1
+CRITICAL: Memory leak detected,1
+ERROR: Unable to read from disk,1
+Network connection established,0
+CRITICAL ERROR: Kernel panic occurred,1
+System boot completed successfully,0
+CPU temperature within normal range,0
+All services running normally,0
+No system alerts detected,0
+CRITICAL ERROR: Kernel panic occurred,1
+All services running normally,0
+ERROR: Unable to read from disk,1
+"Disk check complete, no errors found",0
+WARNING: Disk usage exceeds 90%,1
+"WARNING: Low battery, 5% remaining",1
+"WARNING: Low battery, 5% remaining",1
+System boot completed successfully,0
+Drive mounted at /mnt/data,0
+No system alerts detected,0
+ALERT: System resource usage critical,1
+WARNING: Disk usage exceeds 90%,1
+CPU temperature within normal range,0
+Network connection established,0
+System update completed,0
+CPU temperature within normal range,0
+"Disk check complete, no errors found",0
+"Battery drain detected, shutdown imminent",1
+"Disk check complete, no errors found",0
+System failed to boot - error code 0x80004005,1
+"Battery drain detected, shutdown imminent",1
+All services running normally,0
+"Disk check complete, no errors found",0
+System failed to boot - error code 0x80004005,1
+System failed to boot - error code 0x80004005,1
+CRITICAL: Memory leak detected,1
+Scheduled backup completed,0
+"Battery drain detected, shutdown imminent",1
+ALERT: Battery health is degraded,1
+"Battery drain detected, shutdown imminent",1
+"WARNING: Low battery, 5% remaining",1
+User logged in at 10:01 AM,0
+WARNING: CPU temperature high,1
+User logged in at 10:01 AM,0
+No system alerts detected,0
+"Battery level is 85%, charging",0
+WARNING: Fan speed below threshold,1
+ALERT: Battery health is degraded,1
+System failed to boot - error code 0x80004005,1
+System failed to boot - error code 0x80004005,1
+WARNING: Disk usage exceeds 90%,1
+WiFi connection stable,0
+ALERT: System resource usage critical,1
+System failed to boot - error code 0x80004005,1
+ERROR: Unable to read from disk,1
+Background scan completed,0
+Device operating as expected,0
+Service started successfully,0
+ERROR: Failed to mount root partition,1
+Service started successfully,0
+ERROR: Unexpected shutdown occurred,1
+ERROR: Battery temperature exceeds threshold,1
+WARNING: CPU temperature high,1
+Drive mounted at /mnt/data,0
+Background scan completed,0
+System failed to boot - error code 0x80004005,1
+WARNING: Disk usage exceeds 90%,1
+WARNING: Fan speed below threshold,1
+No system alerts detected,0
+System update completed,0
+Scheduled backup completed,0
+ERROR: Battery temperature exceeds threshold,1
+System update completed,0
+WARNING: Fan speed below threshold,1
+"WARNING: Low battery, 5% remaining",1
+WiFi connection stable,0
+Network connection established,0
+WARNING: Disk usage exceeds 90%,1
+"Battery drain detected, shutdown imminent",1
+System failed to boot - error code 0x80004005,1
+All services running normally,0
+Device operating as expected,0
+System failed to boot - error code 0x80004005,1
+CPU temperature within normal range,0
+WARNING: Fan speed below threshold,1
+ERROR: Battery temperature exceeds threshold,1
+System boot completed successfully,0
+System failed to boot - error code 0x80004005,1
+WiFi connection stable,0
+CRITICAL: Memory leak detected,1
+ERROR: Failed to mount root partition,1
+Device operating as expected,0
+CRITICAL: Memory leak detected,1
+WARNING: CPU temperature high,1
+"Disk check complete, no errors found",0
+"Battery drain detected, shutdown imminent",1
+All services running normally,0
+Service started successfully,0
+ALERT: System resource usage critical,1
+Device operating as expected,0
+CRITICAL ERROR: Kernel panic occurred,1
+ERROR: Unable to read from disk,1
+WARNING: Fan speed below threshold,1
+System update completed,0
+CPU temperature within normal range,0
+Background scan completed,0
+Service started successfully,0
+WARNING: CPU temperature high,1
+ERROR: Failed to mount root partition,1
+Network connection established,0
+CRITICAL: Memory leak detected,1
+System boot completed successfully,0
+Scheduled backup completed,0
+"Battery drain detected, shutdown imminent",1
+ALERT: Battery health is degraded,1
+CRITICAL: Memory leak detected,1
+Device operating as expected,0
+No system alerts detected,0
+ALERT: System resource usage critical,1
+System failed to boot - error code 0x80004005,1
+"Battery drain detected, shutdown imminent",1
+WARNING: CPU temperature high,1
+Device operating as expected,0
+ALERT: System resource usage critical,1
+System update completed,0
+"Disk check complete, no errors found",0
+WiFi connection stable,0
+"Battery drain detected, shutdown imminent",1
+WARNING: Disk usage exceeds 90%,1
+"Power failure detected, system shutting down",1
+User logged in at 10:01 AM,0
+Drive mounted at /mnt/data,0
+ERROR: Battery temperature exceeds threshold,1
+ERROR: Unable to read from disk,1
+Background scan completed,0
+ERROR: Unable to read from disk,1
+Network connection established,0
+CRITICAL ERROR: Kernel panic occurred,1
+Drive mounted at /mnt/data,0
+ERROR: Battery temperature exceeds threshold,1
+ERROR: Unable to read from disk,1
+ERROR: Unexpected shutdown occurred,1
+"Power failure detected, system shutting down",1
+Service started successfully,0
+ERROR: Failed to mount root partition,1
+Network connection established,0
+ALERT: Battery health is degraded,1
+ERROR: Battery temperature exceeds threshold,1
+All services running normally,0
+ERROR: Battery temperature exceeds threshold,1
+ALERT: System resource usage critical,1
+Device operating as expected,0
+CPU temperature within normal range,0
+WiFi connection stable,0
+Service started successfully,0
+Background scan completed,0
+User logged in at 10:01 AM,0
+Network connection established,0
+Scheduled backup completed,0
+CPU temperature within normal range,0
+All services running normally,0
+"Battery drain detected, shutdown imminent",1
+"WARNING: Low battery, 5% remaining",1
+System update completed,0
+Drive mounted at /mnt/data,0
+Drive mounted at /mnt/data,0
+CPU temperature within normal range,0
+"WARNING: Low battery, 5% remaining",1
+Service started successfully,0
+System boot completed successfully,0
+System update completed,0
+CPU temperature within normal range,0
+Scheduled backup completed,0
+Device operating as expected,0
+"Battery drain detected, shutdown imminent",1
+"Power failure detected, system shutting down",1
+CRITICAL: Memory leak detected,1
+WARNING: Disk usage exceeds 90%,1
+"Battery drain detected, shutdown imminent",1
+WiFi connection stable,0
+No system alerts detected,0
+ALERT: Battery health is degraded,1
+Service started successfully,0
+ERROR: Failed to mount root partition,1
+No system alerts detected,0
+ALERT: Battery health is degraded,1
+System failed to boot - error code 0x80004005,1
+Scheduled backup completed,0
+WARNING: CPU temperature high,1
+System update completed,0
+WARNING: CPU temperature high,1
+ALERT: System resource usage critical,1
+"Disk check complete, no errors found",0
+"Battery drain detected, shutdown imminent",1
+CRITICAL: Memory leak detected,1
+System boot completed successfully,0
+WARNING: CPU temperature high,1
+All services running normally,0
+Scheduled backup completed,0
+WARNING: CPU temperature high,1
+ERROR: Failed to mount root partition,1
+"Power failure detected, system shutting down",1
+ERROR: Unable to read from disk,1
+"Power failure detected, system shutting down",1
+Scheduled backup completed,0
+"Battery level is 85%, charging",0
+"Disk check complete, no errors found",0
+"WARNING: Low battery, 5% remaining",1
+"Battery drain detected, shutdown imminent",1
+ERROR: Failed to mount root partition,1
+System update completed,0
+CRITICAL: Memory leak detected,1
+Service started successfully,0
+All services running normally,0
+ERROR: Failed to mount root partition,1
+Device operating as expected,0
+WARNING: Fan speed below threshold,1
+"Power failure detected, system shutting down",1
+ALERT: System resource usage critical,1
+"Disk check complete, no errors found",0
+CPU temperature within normal range,0
+"WARNING: Low battery, 5% remaining",1
+ERROR: Battery temperature exceeds threshold,1
+Scheduled backup completed,0
+User logged in at 10:01 AM,0
+WARNING: Fan speed below threshold,1
+ERROR: Unable to read from disk,1
+WARNING: Disk usage exceeds 90%,1
+WARNING: Fan speed below threshold,1
+User logged in at 10:01 AM,0
+System boot completed successfully,0
+"WARNING: Low battery, 5% remaining",1
+WiFi connection stable,0
+ERROR: Battery temperature exceeds threshold,1
+ERROR: Unable to read from disk,1
+CRITICAL: Memory leak detected,1
+WiFi connection stable,0
+Background scan completed,0
+ERROR: Unexpected shutdown occurred,1
+ERROR: Failed to mount root partition,1
+CPU temperature within normal range,0
+ERROR: Unable to read from disk,1
+Background scan completed,0
+WiFi connection stable,0
+Drive mounted at /mnt/data,0
+System failed to boot - error code 0x80004005,1
+"Disk check complete, no errors found",0
+Service started successfully,0
+CPU temperature within normal range,0
+ALERT: System resource usage critical,1
+Scheduled backup completed,0
+"Battery level is 85%, charging",0
+Background scan completed,0
+CPU temperature within normal range,0
+ALERT: System resource usage critical,1
+WARNING: Fan speed below threshold,1
+"Battery level is 85%, charging",0
+Network connection established,0
+ALERT: System resource usage critical,1
+WARNING: Fan speed below threshold,1
+Service started successfully,0
+Background scan completed,0
+Background scan completed,0
+System boot completed successfully,0
+Service started successfully,0
+ERROR: Unable to read from disk,1
+Scheduled backup completed,0
+WARNING: Fan speed below threshold,1
+"Power failure detected, system shutting down",1
+ALERT: Battery health is degraded,1
+Drive mounted at /mnt/data,0
+"Battery level is 85%, charging",0
+CRITICAL: Memory leak detected,1
+CRITICAL ERROR: Kernel panic occurred,1
+No system alerts detected,0
+Drive mounted at /mnt/data,0
+Device operating as expected,0
+CRITICAL: Memory leak detected,1
+"Disk check complete, no errors found",0
+"Disk check complete, no errors found",0
+System boot completed successfully,0
+ERROR: Failed to mount root partition,1
